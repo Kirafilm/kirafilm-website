@@ -32,8 +32,8 @@ export const reelsVideos: Video[] = [
   { title: "Still Life Instagram Reels", videoId: "3gs8H5OZS7Y", category: "reels" },
   { title: "Sports Expo IG Reels", videoId: "8NbMYbZQYnk", category: "reels" },
   { title: "Tokyo Bag new arrivals 產品IG宣傳片", videoId: "gLtV2Q8S0Qw", category: "reels" },
-  { title: "UMAMI推廣活動", videoId: "LGycwzWK1WI", category: "reels" },
-  { title: "UMAMI推廣活動", videoId: "ZTRqdSj96g8", category: "reels" },
+  { title: "IMXHK", videoId: "q9wLXzupeZo", category: "reels" },
+  { title: "Creaturecomforts making of", videoId: "KM_shPnAhrw", category: "reels" },
   { title: "Laderach Opening", videoId: "VsfOf-tebOo", category: "reels" },
   { title: "Champion Reit ESG Week活動", videoId: "QB80gJTT8QU", category: "reels" },
 ];
